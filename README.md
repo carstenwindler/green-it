@@ -52,6 +52,7 @@ A collection of Green IT related resources.
 - [https://app.electricitymap.org/map](https://app.electricitymap.org/map)
 - [https://www.thegreenwebfoundation.org/directory](https://www.thegreenwebfoundation.org/directory)
 - [https://www.smard.de](https://www.smard.de)
+- [Energy-Charts](https://energy-charts.info) - The site for interactive graphics displaying energy production and spot market prices, operated by the Fraunhofer Institute for Solar Energy Systems ISE, Germany.
  
 ## APIs
 - [https://app.electricitymap.org/map](https://app.electricitymap.org/map)
