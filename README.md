@@ -19,7 +19,6 @@ A collection of Green IT related resources.
 - [https://circularcomputing.com](https://circularcomputing.com)
 - [https://nachhaltiges-webdesign.jetzt](https://nachhaltiges-webdesign.jetzt)
 - [https://greensoftware.foundation](https://greensoftware.foundation)
-- [https://greenframe.io](https://greenframe.io)
 - [https://www.thegreenwebfoundation.org/green-web-check](https://www.thegreenwebfoundation.org/green-web-check])
 - [https://www.thegreenwebfoundation.org/browser-apps](https://www.thegreenwebfoundation.org/browser-apps)
 - [https://github.com/cloud-carbon-footprint/cloud-carbon-footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint)
