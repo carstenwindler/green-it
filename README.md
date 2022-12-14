@@ -55,8 +55,9 @@ A collection of Green IT related resources.
 - [Energy-Charts](https://energy-charts.info) - The site for interactive graphics displaying energy production and spot market prices, operated by the Fraunhofer Institute for Solar Energy Systems ISE, Germany.
  
 ## APIs
-- [https://app.electricitymap.org/map](https://app.electricitymap.org/map)
+- [Electricity Maps](https://www.electricitymaps.com/) - The leading resource for 24/7 electricity CO2 data
 - [https://www.co2signal.com](https://www.co2signal.com)
+- [WattTime](https://www.watttime.org/) - WattTime is a nonprofit that offers technology solutions that make it easy for anyone to achieve emissions reductions without compromising cost, comfort, and function.
 
 ## Tools
 - [https://ecograder.com](https://ecograder.com)
@@ -68,3 +69,5 @@ A collection of Green IT related resources.
 - [https://www.climatiq.io/cloud-computing-carbon-emissions](https://www.climatiq.io/cloud-computing-carbon-emissions)
 - [Gaia Generation](https://www.gaiagen.eu/) - Provides you CO2e emissions transparency about your cloud services.
 - [GreenFrame](https://greenframe.io/) - A SaaS solution that measures the CO2 emissions of any web application, regardless of its client and server technology
+- [Electricity Maps](https://app.electricitymaps.com/map) - Interactive Map for Electricity Maps data
+- [Climate Trace](https://climatetrace.org) - Independent Greenhouse Gas Emissions Tracking. Using AI to gather emission data from thousands of sources.
