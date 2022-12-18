@@ -27,6 +27,7 @@ A collection of Green IT related resources.
 - [https://www.sustainablewebmanifesto.com](https://www.sustainablewebmanifesto.com)
 - [https://sustainablewebdesign.org](https://sustainablewebdesign.org)
 - [https://climateaction.tech](https://climateaction.tech)
+- [The carbon footprint of our digital lifestyles](https://blog.oeko.de/digitaler-co2-fussabdruck/) - Summary of the carbon impact of our digital lifestyle (scroll down for English version)
 
 ## Blog Articles
 - [https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web](https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web)
