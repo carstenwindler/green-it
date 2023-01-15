@@ -60,6 +60,7 @@ A collection of Green IT related resources.
 - [Electricity Maps](https://www.electricitymaps.com/) - The leading resource for 24/7 electricity CO2 data
 - [https://www.co2signal.com](https://www.co2signal.com)
 - [WattTime](https://www.watttime.org/) - WattTime is a nonprofit that offers technology solutions that make it easy for anyone to achieve emissions reductions without compromising cost, comfort, and function.
+- [Climatiq](https://www.climatiq.io) - Emission factors database & API
 
 ## Tools
 - [https://ecograder.com](https://ecograder.com)
