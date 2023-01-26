@@ -61,6 +61,7 @@ A collection of Green IT related resources.
 - [https://www.co2signal.com](https://www.co2signal.com)
 - [WattTime](https://www.watttime.org/) - WattTime is a nonprofit that offers technology solutions that make it easy for anyone to achieve emissions reductions without compromising cost, comfort, and function.
 - [Climatiq](https://www.climatiq.io) - Emission factors database & API
+- [Carbon Intensity API (UK)](https://www.carbonintensity.org.uk/) - Carbon Intensity Forecast for the UK
 
 ## Tools
 - [https://ecograder.com](https://ecograder.com)
