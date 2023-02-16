@@ -12,6 +12,7 @@ A collection of Green IT related resources.
 - [Data Sources](#data-sources)
 - [APIs](#apis)
 - [Tools](#tools)
+- [Courses](#courses)
 
 ## General
 - [Principles of Green Software Engineering](https://principles.green) - The Principles of Green Software Engineering are a core set of competencies needed to define, build and run green sustainable software applications.
@@ -76,3 +77,6 @@ A collection of Green IT related resources.
 - [GreenFrame](https://greenframe.io/) - A SaaS solution that measures the CO2 emissions of any web application, regardless of its client and server technology
 - [Electricity Maps](https://app.electricitymaps.com/map) - Interactive Map for Electricity Maps data
 - [Climate Trace](https://climatetrace.org) - Independent Greenhouse Gas Emissions Tracking. Using AI to gather emission data from thousands of sources.
+
+## Courses
+- [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation. 
