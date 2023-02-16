@@ -44,6 +44,7 @@ A collection of Green IT related resources.
 - [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design) - Probably the first book about sustainable web design ever. Already a classic and a must-read for every Web Developer.
 - [Sustainable IT Playbook for Technology Leaders](https://www.packtpub.com/product/sustainable-it-playbook-for-technology-leaders/9781803230344) - This book will walk you through the construction and implementation of a sustainable IT strategy and enable you to do your bit for the future of mankind. Highly recommended!
 - [https://gerrymcgovern.com/books/world-wide-waste](https://gerrymcgovern.com/books/world-wide-waste)
+- [Green Code](https://www.exove.com/green-code/) - Great ebook about Green Coding. Almost free for download (you need to pay with private information).
 
 ## Magazines
 - [iX Special 2022 -Green IT](https://shop.heise.de/ix-13-2022/Print)
