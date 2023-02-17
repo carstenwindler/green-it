@@ -36,6 +36,7 @@ A collection of Green IT related resources.
 - [https://marmelab.com/blog/2020/09/21/web-developer-climate-change.html](https://marmelab.com/blog/2020/09/21/web-developer-climate-change.html)
 - [https://marmelab.com/blog/2020/09/22/developers-save-the-planet-the-solution.html](https://marmelab.com/blog/2020/09/22/developers-save-the-planet-the-solution.html)
 - [https://www.smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization](https://www.smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization)
+- [https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html](Sustainability Pillar - AWS Well-Architected Framework)
 
 ## Link Lists
 - [https://greentheweb.com/empfohlene-links](https://greentheweb.com/empfohlene-links)
