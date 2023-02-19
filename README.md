@@ -13,6 +13,7 @@ A collection of Green IT related resources.
 - [APIs](#apis)
 - [Tools](#tools)
 - [Courses](#courses)
+- [Newsletters](#newsletters)
 
 ## General
 - [Principles of Green Software Engineering](https://principles.green) - The Principles of Green Software Engineering are a core set of competencies needed to define, build and run green sustainable software applications.
@@ -81,3 +82,6 @@ A collection of Green IT related resources.
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation. 
+
+## Newsletters
+- [Green Software Foundation Newsletter](https://greensoftware.foundation/) - The latest information and resources to help you decarbonize your software.
