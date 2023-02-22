@@ -85,3 +85,4 @@ A collection of Green IT related resources.
 
 ## Newsletters
 - [Green Software Foundation Newsletter](https://greensoftware.foundation/) - The latest information and resources to help you decarbonize your software.
+- [Curiously Green](https://www.wholegraindigital.com/) - The newsletter from Wholegrain Digital, the company of Tom Greenwood (Author of _Sustainable Web Design_)
