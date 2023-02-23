@@ -31,6 +31,7 @@ A collection of Green IT related resources.
 - [https://climateaction.tech](https://climateaction.tech)
 - [The carbon footprint of our digital lifestyles](https://blog.oeko.de/digitaler-co2-fussabdruck/) - Summary of the carbon impact of our digital lifestyle (scroll down for English version)
 - [lowwwcarbon.com](https://lowwwcarbon.com/) - Examples of low-carbon web design and development
+- [greenit.fr](https://www.greenit.fr/) - Green IT related articles (French only)
 
 ## Blog Articles
 - [https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web](https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web)
@@ -79,6 +80,7 @@ A collection of Green IT related resources.
 - [GreenFrame](https://greenframe.io/) - A SaaS solution that measures the CO2 emissions of any web application, regardless of its client and server technology
 - [Electricity Maps](https://app.electricitymaps.com/map) - Interactive Map for Electricity Maps data
 - [Climate Trace](https://climatetrace.org) - Independent Greenhouse Gas Emissions Tracking. Using AI to gather emission data from thousands of sources.
+- [eco index](https://www.ecoindex.fr/) - Website Carbon Footprint Calculator (French only)
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation. 
