@@ -14,6 +14,7 @@ A collection of Green IT related resources.
 - [Tools](#tools)
 - [Courses](#courses)
 - [Newsletters](#newsletters)
+- [Standards](#standards)
 
 ## General
 - [Principles of Green Software Engineering](https://principles.green) - The Principles of Green Software Engineering are a core set of competencies needed to define, build and run green sustainable software applications.
@@ -88,3 +89,8 @@ A collection of Green IT related resources.
 ## Newsletters
 - [Green Software Foundation Newsletter](https://greensoftware.foundation/) - The latest information and resources to help you decarbonize your software.
 - [Curiously Green](https://www.wholegraindigital.com/) - The newsletter from Wholegrain Digital, the company of Tom Greenwood (Author of _Sustainable Web Design_)
+
+## Standards
+- [Technology Environmental Sustainability Standards v1.0
+](https://www.sustainableit.org/standards/environmental-sustainability-standards) - A consistent set of sustainability metrics and KPIs relevant to the software, devices, and data that now dominate all aspects of business operations
+- [Software Carbon Intensity (SCI) Specification](https://sci-data.greensoftware.foundation/) - The Software Carbon Intensity (SCI) Specification defines a methodology for calculating the rate of carbon emissions for a software system
