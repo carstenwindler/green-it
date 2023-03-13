@@ -63,6 +63,8 @@ A collection of Green IT related resources.
 - [https://www.smard.de](https://www.smard.de)
 - [Energy-Charts](https://energy-charts.info) - The site for interactive graphics displaying energy production and spot market prices, operated by the Fraunhofer Institute for Solar Energy Systems ISE, Germany
 - [Agorameter](https://www.agora-energiewende.de/service/agorameter) - Visualisation of several energy related data, like power generation and consumption or carbon intensity, for Germany
+- [Boavizta](https://github.com/Boavizta/environmental-footprint-data) - Environmental impact database for manufacturers and devices
+
  
 ## APIs
 - [Electricity Maps](https://www.electricitymaps.com/) - The leading resource for 24/7 electricity CO2 data
@@ -84,6 +86,7 @@ A collection of Green IT related resources.
 - [Electricity Maps](https://app.electricitymaps.com/map) - Interactive Map for Electricity Maps data
 - [Climate Trace](https://climatetrace.org) - Independent Greenhouse Gas Emissions Tracking. Using AI to gather emission data from thousands of sources.
 - [eco index](https://www.ecoindex.fr/) - Website Carbon Footprint Calculator (French only)
+- [Datavizta](https://dataviz.boavizta.org/) - Visualisation tool for the Boavizta environmental impact database
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation. 
