@@ -79,7 +79,7 @@ A collection of Green IT related resources.
 - [Ecograder](https://ecograder.com) - How green is your website?
 - [Digital Beacon](https://digitalbeacon.co) - Calculate the environmental impact of a web page, see the breakdown and learn what measures can be taken to improve it.
 - [https://ecoping.earth](https://ecoping.earth)
-- [https://www.cloudcarbonfootprint.org](https://www.cloudcarbonfootprint.org)
+- [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org) - Cloud Carbon Emissions Measurement and Analysis Tool
 - [https://cloud.withgoogle.com/region-picker](https://cloud.withgoogle.com/region-picker)
 - [https://www.climatiq.io/cloud-computing-carbon-emissions](https://www.climatiq.io/cloud-computing-carbon-emissions)
 - [Gaia Generation](https://www.gaiagen.eu/) - Provides you CO2e emissions transparency about your cloud services.
