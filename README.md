@@ -88,6 +88,7 @@ A collection of Green IT related resources.
 - [Climate Trace](https://climatetrace.org) - Independent Greenhouse Gas Emissions Tracking. Using AI to gather emission data from thousands of sources.
 - [eco index](https://www.ecoindex.fr/) - Website Carbon Footprint Calculator (French only)
 - [Datavizta](https://dataviz.boavizta.org/) - Visualisation tool for the Boavizta environmental impact database
+- [CO2.js](https://www.thegreenwebfoundation.org/co2-js/) - CO2.js is an open-source JavaScript library that enables developers to estimate the emissions related to use of their apps, websites, and software.
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation. 
