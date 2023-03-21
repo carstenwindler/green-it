@@ -75,10 +75,10 @@ A collection of Green IT related resources.
 - [Carbon Intensity API (UK)](https://www.carbonintensity.org.uk/) - Carbon Intensity Forecast for the UK
 
 ## Tools
-- [https://ecograder.com](https://ecograder.com)
-- [https://digitalbeacon.co](https://digitalbeacon.co)
+- [Website Carbon Calculator](https://www.websitecarbon.com) - The original Website Carbon calculator
+- [Ecograder](https://ecograder.com) - How green is your website?
+- [Digital Beacon](https://digitalbeacon.co) - Calculate the environmental impact of a web page, see the breakdown and learn what measures can be taken to improve it.
 - [https://ecoping.earth](https://ecoping.earth)
-- [https://www.websitecarbon.com](https://www.websitecarbon.com)
 - [https://www.cloudcarbonfootprint.org](https://www.cloudcarbonfootprint.org)
 - [https://cloud.withgoogle.com/region-picker](https://cloud.withgoogle.com/region-picker)
 - [https://www.climatiq.io/cloud-computing-carbon-emissions](https://www.climatiq.io/cloud-computing-carbon-emissions)
