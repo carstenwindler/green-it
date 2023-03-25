@@ -33,6 +33,7 @@ A collection of Green IT related resources.
 - [The carbon footprint of our digital lifestyles](https://blog.oeko.de/digitaler-co2-fussabdruck/) - Summary of the carbon impact of our digital lifestyle (scroll down for English version)
 - [lowwwcarbon.com](https://lowwwcarbon.com/) - Examples of low-carbon web design and development
 - [greenit.fr](https://www.greenit.fr/) - Green IT related articles (French only)
+- [Green Software Patterns](https://patterns.greensoftware.foundation/) - An online open-source database of software patterns reviewed and curated by the Green Software Foundation across a wide range of categories.
 
 ## Blog Articles
 - [https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web](https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web)
