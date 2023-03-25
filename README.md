@@ -88,6 +88,7 @@ A collection of Green IT related resources.
 - [Climate Trace](https://climatetrace.org) - Independent Greenhouse Gas Emissions Tracking. Using AI to gather emission data from thousands of sources.
 - [eco index](https://www.ecoindex.fr/) - Website Carbon Footprint Calculator (French only)
 - [Datavizta](https://dataviz.boavizta.org/) - Visualisation tool for the Boavizta environmental impact database
+- [Boavizta cloud-scanner](https://github.com/Boavizta/cloud-scanner) - Returns environmental impacts of your AWS Instances (EC2) usage
 - [CO2.js](https://www.thegreenwebfoundation.org/co2-js/) - CO2.js is an open-source JavaScript library that enables developers to estimate the emissions related to use of their apps, websites, and software.
 - [Code Carbon](https://github.com/mlco2/codecarbon) - Estimate and track carbon emissions from your computer, quantify and analyze their impact.
 
