@@ -67,7 +67,6 @@ A collection of Green IT related resources.
 - [Agorameter](https://www.agora-energiewende.de/service/agorameter) - Visualisation of several energy related data, like power generation and consumption or carbon intensity, for Germany
 - [Boavizta](https://github.com/Boavizta/environmental-footprint-data) - Environmental impact database for manufacturers and devices
 - [Open Climate](https://openclimate.network/) - Explore, download and contribute historic greenhouse gas emissions and climate progress data
-
  
 ## APIs
 - [Electricity Maps](https://api-portal.electricitymaps.com/) - The leading resource for 24/7 electricity CO2 data
@@ -93,6 +92,7 @@ A collection of Green IT related resources.
 - [Boavizta cloud-scanner](https://github.com/Boavizta/cloud-scanner) - Returns environmental impacts of your AWS Instances (EC2) usage
 - [CO2.js](https://www.thegreenwebfoundation.org/co2-js/) - CO2.js is an open-source JavaScript library that enables developers to estimate the emissions related to use of their apps, websites, and software.
 - [Code Carbon](https://github.com/mlco2/codecarbon) - Estimate and track carbon emissions from your computer, quantify and analyze their impact.
+- [Green Metrics Tool](https://www.green-coding.berlin/projects/green-metrics-tool/) - A free open-source tool to measure the energy and CO2 consumption of your software architecture.
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation. 
