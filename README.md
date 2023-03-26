@@ -66,6 +66,7 @@ A collection of Green IT related resources.
 - [Energy-Charts](https://energy-charts.info) - The site for interactive graphics displaying energy production and spot market prices, operated by the Fraunhofer Institute for Solar Energy Systems ISE, Germany
 - [Agorameter](https://www.agora-energiewende.de/service/agorameter) - Visualisation of several energy related data, like power generation and consumption or carbon intensity, for Germany
 - [Boavizta](https://github.com/Boavizta/environmental-footprint-data) - Environmental impact database for manufacturers and devices
+- [Open Climate](https://openclimate.network/) - Explore, download and contribute historic greenhouse gas emissions and climate progress data
 
  
 ## APIs
