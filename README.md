@@ -28,7 +28,7 @@ A collection of Green IT related resources.
 - [https://sustainability.aboutamazon.com](https://sustainability.aboutamazon.com)
 - [https://www.wholegraindigital.com/digitaldeclutter](https://www.wholegraindigital.com/digitaldeclutter)
 - [https://www.sustainablewebmanifesto.com](https://www.sustainablewebmanifesto.com)
-- [https://sustainablewebdesign.org](https://sustainablewebdesign.org)
+- [Sustainable Web Design](https://sustainablewebdesign.org) - Strategies and methodologies for a sustainable web
 - [https://climateaction.tech](https://climateaction.tech)
 - [The carbon footprint of our digital lifestyles](https://blog.oeko.de/digitaler-co2-fussabdruck/) - Summary of the carbon impact of our digital lifestyle (scroll down for English version)
 - [lowwwcarbon.com](https://lowwwcarbon.com/) - Examples of low-carbon web design and development
