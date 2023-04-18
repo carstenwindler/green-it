@@ -93,6 +93,7 @@ A collection of Green IT related resources.
 - [CO2.js](https://www.thegreenwebfoundation.org/co2-js/) - CO2.js is an open-source JavaScript library that enables developers to estimate the emissions related to use of their apps, websites, and software.
 - [Code Carbon](https://github.com/mlco2/codecarbon) - Estimate and track carbon emissions from your computer, quantify and analyze their impact.
 - [Green Metrics Tool](https://www.green-coding.berlin/projects/green-metrics-tool/) - A free open-source tool to measure the energy and CO2 consumption of your software architecture.
+- [Chat IPCC](https://www.chatclimate.ai/) - Chat IPCC – AI grounded on the latest IPCC Report
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation. 
