@@ -73,7 +73,7 @@ A collection of Green IT related resources.
  
 ## APIs
 - [Electricity Maps](https://api-portal.electricitymaps.com/) - The leading resource for 24/7 electricity CO2 data
-- [CO2 Signal](https://www.co2signal.com) - Free Carbon Intensity Data
+- ~~[CO2 Signal](https://www.co2signal.com) - Free Carbon Intensity Data~~ (now integrated into Electricity Maps)
 - [WattTime](https://www.watttime.org/) - WattTime is a nonprofit that offers technology solutions that make it easy for anyone to achieve emissions reductions without compromising cost, comfort, and function.
 - [Climatiq](https://www.climatiq.io) - Emission factors database & API
 - [Carbon Intensity API (UK)](https://www.carbonintensity.org.uk/) - Carbon Intensity Forecast for the UK
