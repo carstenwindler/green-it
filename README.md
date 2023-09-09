@@ -108,6 +108,7 @@ A collection of Green IT related resources.
 - [Curiously Green](https://www.wholegraindigital.com/) - The newsletter from Wholegrain Digital, the company of Tom Greenwood (Author of _Sustainable Web Design_)
 
 ## Standards
+- [Web Sustainability Guidelines (WSG) 1.0](https://w3c.github.io/sustyweb/) - Web Sustainability Guidelines (WSG) 1.0 covers a wide range of recommendations for making websites and products more sustainable. 
 - [Technology Environmental Sustainability Standards v1.0
 ](https://www.sustainableit.org/standards/environmental-sustainability-standards) - A consistent set of sustainability metrics and KPIs relevant to the software, devices, and data that now dominate all aspects of business operations
 - [Software Carbon Intensity (SCI) Specification](https://sci-data.greensoftware.foundation/) - The Software Carbon Intensity (SCI) Specification defines a methodology for calculating the rate of carbon emissions for a software system
