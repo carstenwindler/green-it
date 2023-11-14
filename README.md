@@ -35,6 +35,7 @@ A collection of Green IT related resources.
 - [greenit.fr](https://www.greenit.fr/) - 🇫🇷 Green IT related articles (French only)
 - [Green Software Patterns](https://patterns.greensoftware.foundation/) - An online open-source database of software patterns reviewed and curated by the Green Software Foundation across a wide range of categories
 - [Sustainability Best Practices](https://www.salesforce.com/uk/news/stories/green-code-software/) - A guide of sustainability best practices by Salesforce
+- [Sustainablewww](https://sustainablewww.org/) - Good source of knowledge about sustainable web design
 
 ## Blog Articles
 - [https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web](https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web)
