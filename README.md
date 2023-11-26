@@ -63,6 +63,8 @@ A collection of Green IT related resources.
 ## Magazines
 - [iX Special 2022 -Green IT](https://shop.heise.de/ix-13-2022/Print)
 - [Windows Developer 03.2022 - Sustainable Programming](https://entwickler.de/magazine-ebooks/windows-developer/windows-developer-032022)
+- [PHP Magazin 4.2023 - Performance optimieren für Green PHP](https://entwickler.de/php/performance-optimieren-green-php) - 🇩🇪 First part of my article about Green Code in PHP
+- [PHP Magazin 5.2023 - Zeit zum Umdenken](https://entwickler.de/php/zeit-zum-umdenken) - 🇩🇪 Second part of my article about Green Code in PHP
 
 ## Data Sources
 - [https://www.agora-energiewende.de](https://www.agora-energiewende.de)
