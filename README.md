@@ -15,6 +15,8 @@ A collection of Green IT related resources.
 - [Courses](#courses)
 - [Newsletters](#newsletters)
 - [Standards](#standards)
+- [AI](#ai)
+
 
 ## General
 - [Principles of Green Software Engineering](https://principles.green) - The Principles of Green Software Engineering are a core set of competencies needed to define, build and run green sustainable software applications
@@ -117,3 +119,6 @@ A collection of Green IT related resources.
 - [Technology Environmental Sustainability Standards v1.0
 ](https://www.sustainableit.org/standards/environmental-sustainability-standards) - A consistent set of sustainability metrics and KPIs relevant to the software, devices, and data that now dominate all aspects of business operations
 - [Software Carbon Intensity (SCI) Specification](https://sci-data.greensoftware.foundation/) - The Software Carbon Intensity (SCI) Specification defines a methodology for calculating the rate of carbon emissions for a software system
+
+- ## AI
+- [Watts Driving the Cost of AI Deployment?](https://arxiv.org/pdf/2311.16863.pdf) - Power Hungry Processing: Watts Driving the Cost of AI Deployment? A scientific paper about energy consumption of AI
