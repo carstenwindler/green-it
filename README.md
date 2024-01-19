@@ -106,6 +106,7 @@ A collection of Green IT related resources.
 - [Chat IPCC](https://www.chatclimate.ai/) - Chat IPCC – AI grounded on the latest IPCC Report
 - [Sustainability Scanner](https://github.com/awslabs/sustainability-scanner) - Validate AWS CloudFormation templates against AWS Well-Architected Sustainability Pillar best practices.
 - [Image Carbon](https://www.imagecarbon.com/) - Calculate how much carbon a page is emitting from images.
+- [ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your software programs with SonarQube
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation
