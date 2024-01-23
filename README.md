@@ -59,7 +59,6 @@ A collection of Green IT related resources.
 - [Sustainable IT Playbook for Technology Leaders](https://www.packtpub.com/product/sustainable-it-playbook-for-technology-leaders/9781803230344) - This book will walk you through the construction and implementation of a sustainable IT strategy and enable you to do your bit for the future of mankind. Highly recommended!
 - [https://gerrymcgovern.com/books/world-wide-waste](https://gerrymcgovern.com/books/world-wide-waste)
 - [Green Code](https://www.exove.com/green-code/) - Great ebook about Green Coding. Almost free for download (you need to pay with private information)
-- [Nachhaltige Websites](https://link.springer.com/book/10.1007/978-3-658-41093-3) - 🇩🇪 Praktischer Leitfaden zur Prüfung und Optimierung – mit zahlreichen Tool-Tipps und Programm-Codes
 - [Building Green Software](https://www.oreilly.com/library/view/building-green-software/9781098150617/) - (Unreleased!) How will software development and operations have to change to meet the sustainability and green needs of the planet? And what does that imply for development organizations?
 
 ## Magazines
