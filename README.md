@@ -60,6 +60,7 @@ A collection of Green IT related resources.
 - [https://gerrymcgovern.com/books/world-wide-waste](https://gerrymcgovern.com/books/world-wide-waste)
 - [Green Code](https://www.exove.com/green-code/) - Great ebook about Green Coding. Almost free for download (you need to pay with private information)
 - [Building Green Software](https://www.oreilly.com/library/view/building-green-software/9781098150617/) - (Unreleased!) How will software development and operations have to change to meet the sustainability and green needs of the planet? And what does that imply for development organizations?
+- [Decarbonise Digital: Facts. Methods. Action.](https://www.amazon.com/Decarbonise-Digital-Facts-Methods-Action-ebook/dp/B0CNQNNQL2)) - Your guide to making digital part of the solution to the climate crisis.
 
 ## Magazines
 - [iX Special 2022 -Green IT](https://shop.heise.de/ix-13-2022/Print)
