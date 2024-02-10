@@ -70,7 +70,7 @@ A collection of Green IT related resources.
 
 ## Data Sources
 - [https://www.agora-energiewende.de](https://www.agora-energiewende.de)
-- [https://www.thegreenwebfoundation.org/directory](https://www.thegreenwebfoundation.org/directory)
+- [https://www.thegreenwebfoundation.org/directory](https://www.thegreenwebfoundation.org/directory) - An open service that makes it easier to choose greener hosting providers that better align with your organisational values.
 - [https://www.smard.de](https://www.smard.de)
 - [Energy-Charts](https://energy-charts.info) - The site for interactive graphics displaying energy production and spot market prices, operated by the Fraunhofer Institute for Solar Energy Systems ISE, Germany
 - [Agorameter](https://www.agora-energiewende.de/service/agorameter) - Visualisation of several energy related data, like power generation and consumption or carbon intensity, for Germany
@@ -84,6 +84,7 @@ A collection of Green IT related resources.
 - [WattTime](https://www.watttime.org/) - WattTime is a nonprofit that offers technology solutions that make it easy for anyone to achieve emissions reductions without compromising cost, comfort, and function.
 - [Climatiq](https://www.climatiq.io) - Emission factors database & API
 - [Carbon Intensity API (UK)](https://www.carbonintensity.org.uk/) - Carbon Intensity Forecast for the UK
+- [Energy-Charts API](https://api.energy-charts.info/) - API of [energy-charts.info](https://energy-charts.info/) that e.g. provides actual and forecast data about the share of regeneratives in the electricity mix - for free! 
 
 ## Tools
 - [Website Carbon Calculator](https://www.websitecarbon.com) - The original Website Carbon calculator
