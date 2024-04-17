@@ -60,7 +60,7 @@ A collection of Green IT related resources.
 - [Sustainable IT Playbook for Technology Leaders](https://www.packtpub.com/product/sustainable-it-playbook-for-technology-leaders/9781803230344) - This book will walk you through the construction and implementation of a sustainable IT strategy and enable you to do your bit for the future of mankind. Highly recommended!
 - [https://gerrymcgovern.com/books/world-wide-waste](https://gerrymcgovern.com/books/world-wide-waste)
 - [Green Code](https://www.exove.com/green-code/) - Great ebook about Green Coding. Almost free for download (you need to pay with private information)
-- [Building Green Software](https://www.oreilly.com/library/view/building-green-software/9781098150617/) - (Unreleased!) How will software development and operations have to change to meet the sustainability and green needs of the planet? And what does that imply for development organizations?
+- [Building Green Software](https://www.oreilly.com/library/view/building-green-software/9781098150617/) - How will software development and operations have to change to meet the sustainability and green needs of the planet? And what does that imply for development organizations?
 - [Decarbonise Digital: Facts. Methods. Action.](https://www.amazon.com/Decarbonise-Digital-Facts-Methods-Action-ebook/dp/B0CNQNNQL2) - Your guide to making digital part of the solution to the climate crisis.
 
 ## Magazines
@@ -112,6 +112,7 @@ A collection of Green IT related resources.
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation
+- [Eco-Tech: Decoding IT's Impact on a Sustainable Future](https://iversity.org/en/courses/eco-tech) - 💲🇩🇪🇬🇧 Immerse yourself in the world of information technology and discover how it can help shape a sustainable future. 
 
 ## Newsletters
 - [Green Software Foundation Newsletter](https://greensoftware.foundation/) - The latest information and resources to help you decarbonize your software.
