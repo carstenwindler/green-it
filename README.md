@@ -54,6 +54,7 @@ A collection of Green IT related resources.
 - [https://greentheweb.com/empfohlene-links](https://greentheweb.com/empfohlene-links)
 - [https://github.com/Green-Software-Foundation/awesome-green-software](https://github.com/Green-Software-Foundation/awesome-green-software)
 - [References - Sustainable Web Design Community Group](https://www.w3.org/community/sustyweb/wiki/References) - Link list of the W3C Sustainability Group
+- [GitHub's Green Software Directory](https://github.com/github/GreenSoftwareDirectory) - A simple and easy-to-use resource that all developers can use to adopt green software tools
 
 ## Books
 - [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design) - Probably the first book about sustainable web design ever. Already a classic and a must-read for every Web Developer
