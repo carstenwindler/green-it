@@ -114,7 +114,8 @@ A collection of Green IT related resources.
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation
-- [Eco-Tech: Decoding IT's Impact on a Sustainable Future](https://iversity.org/en/courses/eco-tech) - 💲🇩🇪🇬🇧 Immerse yourself in the world of information technology and discover how it can help shape a sustainable future. 
+- [Eco-Tech: Decoding IT's Impact on a Sustainable Future](https://iversity.org/en/courses/eco-tech) - 💲🇩🇪🇬🇧 Immerse yourself in the world of information technology and discover how it can help shape a sustainable future.
+- [LinkedIn Learning: Green Coding by Carsten Windler](https://www.linkedin.com/learning/green-coding-grundlagen) - 💲🇩🇪 In this LinkedIn Learning course, Carsten Windler introduces you to various concepts relating to green coding.
 
 ## Newsletters
 - [Green Software Foundation Newsletter](https://greensoftware.foundation/) - The latest information and resources to help you decarbonize your software.
