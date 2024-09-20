@@ -111,6 +111,7 @@ A collection of Green IT related resources.
 - [Sustainability Scanner](https://github.com/awslabs/sustainability-scanner) - Validate AWS CloudFormation templates against AWS Well-Architected Sustainability Pillar best practices.
 - [Image Carbon](https://www.imagecarbon.com/) - Calculate how much carbon a page is emitting from images.
 - [ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your software programs with SonarQube
+- [GreenElePHPant CodeBench](https://github.com/green-elephpant/code-bench) - Code speed comparison tool for PHP
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation
