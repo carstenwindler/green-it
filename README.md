@@ -113,6 +113,7 @@ A collection of Green IT related resources.
 - [ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your software programs with SonarQube
 - [GreenElePHPant CodeBench](https://github.com/green-elephpant/code-bench) - Code speed comparison tool for PHP
 - [PowerLetrics](https://www.green-coding.io/blog/powerletrics/](https://github.com/green-kernel/powerletrics) - PowerLetrics is an open-source framework designed to monitor and analyze power consumption metrics at the process level on Linux.
+- [e-footprint](https://github.com/Boavizta/e-footprint) - A toolkit for exhaustively modeling the environmental impact of digital services.
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation
