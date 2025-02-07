@@ -49,6 +49,8 @@ A collection of Green IT related resources.
 - [Spotify on Green IT](https://engineering.atspotify.com/2022/10/bringing-the-climate-fight-to-your-ide/) - Bringing the climate fight to your IDE
 - [The green IT revolution](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-green-it-revolution-a-blueprint-for-cios-to-combat-climate-change) - A blueprint for CIOs to combat climate change
 - [Coden gegen den Klimawandel](https://www.informatik-aktuell.de/management-und-recht/digitalisierung/coden-gegen-den-klimawandel-geht-da-was.html) - 🇩🇪 My article about green coding in the Informatik Aktuell online magazine
+- [https://plana.earth/academy/it-decarbonisation-sustainable-engineering](https://plana.earth/academy/it-decarbonisation-sustainable-engineering) - Decarbonise your IT with sustainable software engineering
+- [https://plana.earth/academy/green-it-decarbonisation](https://plana.earth/academy/green-it-decarbonisation) - How can green IT be leveraged to reduce your company’s emissions?
 
 ## Link Lists
 - [https://greentheweb.com/empfohlene-links](https://greentheweb.com/empfohlene-links)
