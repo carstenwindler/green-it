@@ -40,6 +40,7 @@ A collection of Green IT related resources.
 - [Sustainablewww](https://sustainablewww.org/) - Good source of knowledge about sustainable web design
 - [Web Almanac by HTTP Archive - Sustainability Chapter](https://almanac.httparchive.org/en/2022/sustainability) - Many useful advices and data about web sustainability
 - [GitHub Social Impact - Environmental Sustainability](https://github.com/social-impact/focus-areas/environmental-sustainability) - In partnership with the developer community, nonprofit organizations, Microsoft, and our employees, we are building a sustainable global platform to empower developer collaboration, accelerate human progress, and contribute to the protection of our world.
+- [Climate Product Leaders' Playbook](https://climateproductleaders.org/playbook/) - 38 nature-positive best practices to enhance your product management skills and contribute to the fight against climate change and biodiversity crises.
 
 ## Blog Articles
 - [https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web](https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web)
