@@ -53,6 +53,7 @@ A collection of Green IT related resources.
 - [Coden gegen den Klimawandel](https://www.informatik-aktuell.de/management-und-recht/digitalisierung/coden-gegen-den-klimawandel-geht-da-was.html) - 🇩🇪 My article about green coding in the Informatik Aktuell online magazine
 - [https://plana.earth/academy/it-decarbonisation-sustainable-engineering](https://plana.earth/academy/it-decarbonisation-sustainable-engineering) - Decarbonise your IT with sustainable software engineering
 - [https://plana.earth/academy/green-it-decarbonisation](https://plana.earth/academy/green-it-decarbonisation) - How can green IT be leveraged to reduce your company’s emissions?
+- [The Green IT Value Case – Concrete steps towards sustainable IT](https://www.tno.nl/en/newsroom/insights/2025/06/green-value-case-concrete-steps-towards/) - An overview of the challenges and opportunities of sustainable IT, based on the experiences of 20 major companies and institutions.
 
 ## Link Lists
 - [https://greentheweb.com/empfohlene-links](https://greentheweb.com/empfohlene-links)
