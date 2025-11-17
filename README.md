@@ -138,3 +138,6 @@ A collection of Green IT related resources.
 
 ## AI
 - [Watts Driving the Cost of AI Deployment?](https://arxiv.org/pdf/2311.16863.pdf) - Power Hungry Processing: Watts Driving the Cost of AI Deployment? A scientific paper about energy consumption of AI
+- [EcoLogits](https://ecologits.ai/) - Estimate and track the environmental footprint of GenAI models at inference
+- [GreenPT](https://greenpt.ai/) - Sustainable and privacy friendly AI. Hosted in Europe using renewable energy
+- [HuggingFace AIEnergyScore](https://huggingface.github.io/AIEnergyScore/) - An initiative to establish comparable energy efficiency ratings for AI models
