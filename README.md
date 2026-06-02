@@ -20,19 +20,17 @@ A collection of Green IT related resources.
 
 ## General
 - [Principles of Green Software Engineering](https://principles.green) - The Principles of Green Software Engineering are a core set of competencies needed to define, build and run green sustainable software applications
-- [https://en.creativesforfuture.de](https://en.creativesforfuture.de)
+- [Creatives 4 Future](https://www.creativesforfuture.de)
 - [https://circularcomputing.com](https://circularcomputing.com)
 - [https://nachhaltiges-webdesign.jetzt](https://nachhaltiges-webdesign.jetzt)
 - [https://greensoftware.foundation](https://greensoftware.foundation)
 - [https://www.thegreenwebfoundation.org/green-web-check](https://www.thegreenwebfoundation.org/green-web-check])
-- [https://www.thegreenwebfoundation.org/browser-apps](https://www.thegreenwebfoundation.org/browser-apps)
 - [https://github.com/cloud-carbon-footprint/cloud-carbon-footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint)
 - [https://sustainability.aboutamazon.com](https://sustainability.aboutamazon.com)
 - [https://www.wholegraindigital.com/digitaldeclutter](https://www.wholegraindigital.com/digitaldeclutter)
 - [https://www.sustainablewebmanifesto.com](https://www.sustainablewebmanifesto.com)
 - [Sustainable Web Design](https://sustainablewebdesign.org) - Strategies and methodologies for a sustainable web
 - [https://climateaction.tech](https://climateaction.tech)
-- [The carbon footprint of our digital lifestyles](https://blog.oeko.de/digitaler-co2-fussabdruck/) - Summary of the carbon impact of our digital lifestyle (scroll down for English version)
 - [lowwwcarbon.com](https://lowwwcarbon.com/) - Examples of low-carbon web design and development
 - [greenit.fr](https://www.greenit.fr/) - 🇫🇷 Green IT related articles (French only)
 - [Green Software Patterns](https://patterns.greensoftware.foundation/) - An online open-source database of software patterns reviewed and curated by the Green Software Foundation across a wide range of categories
@@ -58,7 +56,6 @@ A collection of Green IT related resources.
 ## Link Lists
 - [https://greentheweb.com/empfohlene-links](https://greentheweb.com/empfohlene-links)
 - [https://github.com/Green-Software-Foundation/awesome-green-software](https://github.com/Green-Software-Foundation/awesome-green-software)
-- [References - Sustainable Web Design Community Group](https://www.w3.org/community/sustyweb/wiki/References) - Link list of the W3C Sustainability Group
 - [GitHub's Green Software Directory](https://github.com/github/GreenSoftwareDirectory) - A simple and easy-to-use resource that all developers can use to adopt green software tools
 
 ## Books
@@ -89,7 +86,6 @@ A collection of Green IT related resources.
  
 ## APIs
 - [Electricity Maps](https://api-portal.electricitymaps.com/) - The leading resource for 24/7 electricity CO2 data
-- ~~[CO2 Signal](https://www.co2signal.com) - Free Carbon Intensity Data~~ (now integrated into Electricity Maps)
 - [WattTime](https://www.watttime.org/) - WattTime is a nonprofit that offers technology solutions that make it easy for anyone to achieve emissions reductions without compromising cost, comfort, and function.
 - [Climatiq](https://www.climatiq.io) - Emission factors database & API
 - [Carbon Intensity API (UK)](https://www.carbonintensity.org.uk/) - Carbon Intensity Forecast for the UK
@@ -103,7 +99,6 @@ A collection of Green IT related resources.
 - [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org) - Cloud Carbon Emissions Measurement and Analysis Tool
 - [https://cloud.withgoogle.com/region-picker](https://cloud.withgoogle.com/region-picker)
 - [https://www.climatiq.io/cloud-computing-carbon-emissions](https://www.climatiq.io/cloud-computing-carbon-emissions)
-- [Gaia Generation](https://www.gaiagen.eu/) - Provides you CO2e emissions transparency about your cloud services.
 - [GreenFrame](https://greenframe.io/) - A SaaS solution that measures the CO2 emissions of any web application, regardless of its client and server technology
 - [Electricity Maps](https://app.electricitymaps.com/map) - Interactive Map for Electricity Maps data
 - [Climate Trace](https://climatetrace.org) - Independent Greenhouse Gas Emissions Tracking. Using AI to gather emission data from thousands of sources.
@@ -112,7 +107,7 @@ A collection of Green IT related resources.
 - [Boavizta cloud-scanner](https://github.com/Boavizta/cloud-scanner) - Returns environmental impacts of your AWS Instances (EC2) usage
 - [CO2.js](https://www.thegreenwebfoundation.org/co2-js/) - CO2.js is an open-source JavaScript library that enables developers to estimate the emissions related to use of their apps, websites, and software
 - [Code Carbon](https://github.com/mlco2/codecarbon) - Estimate and track carbon emissions from your computer, quantify and analyze their impact.
-- [Green Metrics Tool](https://www.green-coding.berlin/projects/green-metrics-tool/) - A free open-source tool to measure the energy and CO2 consumption of your software architecture
+- [Green Metrics Tool](https://www.green-coding.io/products/green-metrics-tool/) - A free open-source tool to measure the energy and CO2 consumption of your software architecture
 - [Chat IPCC](https://www.chatclimate.ai/) - Chat IPCC – AI grounded on the latest IPCC Report
 - [Sustainability Scanner](https://github.com/awslabs/sustainability-scanner) - Validate AWS CloudFormation templates against AWS Well-Architected Sustainability Pillar best practices.
 - [Image Carbon](https://www.imagecarbon.com/) - Calculate how much carbon a page is emitting from images.
@@ -123,7 +118,6 @@ A collection of Green IT related resources.
 
 ## Courses
 - [Green Software for Practitioners](https://learn.greensoftware.foundation/) - Learn the basic concepts a software practitioner needs to know to build, maintain and run greener applications. A course by the Green Software Foundation
-- [Eco-Tech: Decoding IT's Impact on a Sustainable Future](https://iversity.org/en/courses/eco-tech) - 💲🇩🇪🇬🇧 Immerse yourself in the world of information technology and discover how it can help shape a sustainable future.
 - [LinkedIn Learning: Green Coding by Carsten Windler](https://www.linkedin.com/learning/green-coding-grundlagen) - 💲🇩🇪 In this LinkedIn Learning course, Carsten Windler introduces you to various concepts relating to green coding.
 
 ## Newsletters
@@ -133,8 +127,8 @@ A collection of Green IT related resources.
 ## Standards
 - [Web Sustainability Guidelines (WSG) 1.0](https://w3c.github.io/sustyweb/) - Web Sustainability Guidelines (WSG) 1.0 covers a wide range of recommendations for making websites and products more sustainable. 
 - [Technology Environmental Sustainability Standards v1.0
-](https://www.sustainableit.org/standards/environmental-sustainability-standards) - A consistent set of sustainability metrics and KPIs relevant to the software, devices, and data that now dominate all aspects of business operations
-- [Software Carbon Intensity (SCI) Specification](https://sci-data.greensoftware.foundation/) - The Software Carbon Intensity (SCI) Specification defines a methodology for calculating the rate of carbon emissions for a software system
+](https://www.sustainableit.org/standards/it-esg-standards) - A consistent set of sustainability metrics and KPIs relevant to the software, devices, and data that now dominate all aspects of business operations
+- [Software Carbon Intensity (SCI) Specification](https://sci.greensoftware.foundation/) - The Software Carbon Intensity (SCI) Specification defines a methodology for calculating the rate of carbon emissions for a software system
 
 ## AI
 - [Watts Driving the Cost of AI Deployment?](https://arxiv.org/pdf/2311.16863.pdf) - Power Hungry Processing: Watts Driving the Cost of AI Deployment? A scientific paper about energy consumption of AI
